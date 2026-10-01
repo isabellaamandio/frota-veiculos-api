@@ -4,3 +4,5 @@ class VeiculoService{
         return res.rows;
     }
 }
+
+export const VeiculoService = new VeiculoService();
